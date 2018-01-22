@@ -1,0 +1,22 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2041 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\unity\pong_game\pong(byTajdik)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\unity\pong_game\pong(byTajdik)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.194 seconds
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\unity\pong_game\pong(byTajdik)_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
